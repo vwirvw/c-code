@@ -8,5 +8,5 @@ int main(){
     printf("Your Char is %c \n",u);
     i=u;
     printf("yor aski is %d",i);
-        return 0;
+    return 0;
 }
